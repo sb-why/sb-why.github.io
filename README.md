@@ -1,11 +1,15 @@
-## Welcome to GitHub Pages
+## HCI Portfolio
 
+### About Me
+
+My name is Shreeja Bhattacharjee, I am senior studying Industrial Engineering and Computer Science at Worcester Polytechnic Institute.
 You can use the [editor on GitHub](https://github.com/sb-why/sb-why.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Design Manifesto
 
+To read about my Design Manifesto, go here: https://medium.com/@bhattacharjee.shreeja_7950/design-manifesto-cd1d3741dc89
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown

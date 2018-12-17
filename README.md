@@ -8,24 +8,6 @@ My name is Shreeja Bhattacharjee. I am a senior studying Industrial Engineering 
 
 To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharjee.shreeja_7950/design-manifesto-cd1d3741dc89)
 
-```markdown
-Syntax highlighted code block
-
-# huh
-## huh
-### huh
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 ### Good Design, Bad Design
 This was my first project, and the only project to be completed individually.
 

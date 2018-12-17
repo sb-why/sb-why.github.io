@@ -28,10 +28,6 @@ In this project, the goal was to redesign a website for mobile use. Our team of 
 
 ### Design for Understanding
 <img src = "/rose1.png">
-<img src = "/rose2.png">
-<img src = "/rose3.png">
-<img src = "/rose4.png">
-
 Here, the aim was to present data in a clear but simple manner. Our team picked the topic of Bacholorette. We presented the data with two different angles- one unbiased, and another with the intent to convey a narrative.
 
 [Read more about Design for Understanding](https://medium.com/@bhattacharjee.shreeja_7950/design-for-understanding-81de5fd6c5a8)

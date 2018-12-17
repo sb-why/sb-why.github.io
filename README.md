@@ -39,6 +39,7 @@ This project resulted in the creation of a ChatBot. Our ChatBot aimed to inform,
 [Read more about Design for Tension](https://medium.com/@bhattacharjee.shreeja_7950/design-for-tension-b77fec66feca)
 
 ### Design for Well-Being
+<img src = "/surprise.png">
 Design for Well-Being presented an unique challenge of trying to use technology to help our mental healthy. Specifically, we were tasked with using Affectiva, a set of libraries that determines users emotions based on visual input from a webcam, to create a website that "promoted well-being."
 
 [Read more about Design for Well-Being](https://medium.com/@bhattacharjee.shreeja_7950/design-for-well-being-4064d31ba535)

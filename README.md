@@ -10,14 +10,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Design Manifesto
 
 To read about my Design Manifesto, go here: https://medium.com/@bhattacharjee.shreeja_7950/design-manifesto-cd1d3741dc89
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# huh
+## huh
+### huh
 
 - Bulleted
 - List
@@ -30,6 +29,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Good Design, Bad Design
+### Design for Others
+### Design for Understanding
+### Design for Tension
+### Design for Well-Being
+### Design for Another World
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

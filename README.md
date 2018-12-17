@@ -10,8 +10,8 @@ To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharj
 
 ### Good Design, Bad Design
 <p float="center">
-  <img src = "/gooddesign.png" width = "222" />
-  <img src = "/baddesign.png" width = "222" />
+  <img src = "/gooddesign.png" width = "223" />
+  <img src = "/baddesign.png" width = "223" />
 </p>
 
 This was my first project, and the only project to be completed individually. I was tasked with the job of finding an example of good design and bad design from WPIs various webpages, as well as defending my choice. I found out two things during this assignment: 1) I was impressed with my ability to utilize design rules to identify areas of improvements 2) Finding examples of good design seems exceedingly more difficult, when viewed under the lens of scrutiny.
@@ -21,6 +21,7 @@ This was my first project, and the only project to be completed individually. I 
 [Read more about Bad Design](https://medium.com/@bhattacharjee.shreeja_7950/bad-design-f87e80ddecef)
 
 ### Design for Others
+<img src = "/technocopia.png">
 In this project, the goal was to redesign a website for mobile use. Our team of 4 used Adobe XD to redesign the look of the website technocopia.org.
 
 [Read more about Design for Others](https://medium.com/@jiangpercy/group-19-design-reflection-28ed3236d0a6)

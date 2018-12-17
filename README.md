@@ -1,4 +1,4 @@
-## Human Computer Interactions Portfolio
+# Human Computer Interactions Portfolio
 
 # About Me
 

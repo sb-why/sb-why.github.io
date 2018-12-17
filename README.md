@@ -23,7 +23,7 @@ This was my first project, and the only project to be completed individually. I 
 ### Design for Others
 In this project, the goal was to redesign a website for mobile use. Our team of 4 used Adobe XD to redesign the look of the website technocopia.org.
 
-[Read more about Design for Others](https://medium.com/@bhattacharjee.shreeja_7950/good-design-ce34e416f48e)
+[Read more about Design for Others](https://medium.com/@jiangpercy/group-19-design-reflection-28ed3236d0a6)
 
 ### Design for Understanding
 Here, the aim was to present data in a clear but simple manner. Our team picked the topic of Bacholorette. We presented the data with two different angles- one unbiased, and another with the intent to convey a narrative.

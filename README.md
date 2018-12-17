@@ -1,11 +1,11 @@
 ## Human Computer Interactions Portfolio
 
-### About Me
+# About Me
 
 My name is Shreeja Bhattacharjee. I am a senior studying Industrial Engineering and Computer Science at Worcester Polytechnic Institute. I am passionate about computer science, psychology, efficiency, and any intersection of the aformentioned. My non-related work passions include travelling, drinking bubble tea, and watching figure skating videos. 
 
 
-### Design Manifesto
+# Design Manifesto
 
 To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharjee.shreeja_7950/design-manifesto-cd1d3741dc89)
 

@@ -2,7 +2,7 @@
 
 # About Me
 
-My name is Shreeja Bhattacharjee. I am a senior studying Industrial Engineering and Computer Science at Worcester Polytechnic Institute. I am passionate about computer science, psychology, efficiency, and any intersection of the aformentioned. My non-related work passions include travelling, drinking bubble tea, and watching figure skating videos. 
+My name is Shreeja Bhattacharjee. I am a senior studying Industrial Engineering and Computer Science at Worcester Polytechnic Institute. I am passionate about computer science, psychology, efficiency, and any intersection of the aformentioned. My non-work related passions include travelling, drinking bubble tea, and watching figure skating videos. 
 
 
 # Design Manifesto
@@ -13,7 +13,7 @@ To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharj
 
 ### Good Design, Bad Design
 <img src = "/gooddesign.png">
-This was my first project, and the only project to be completed individually. I was tasked with the job of finding an example of good design and bad design from WPIs various webpages, as well as defending my choice. I found out two things during this assignment: 
+This was my first project, and the only project to be completed individually. I was tasked with the job of finding an example of good design and bad design from WPI webpages, as well as rationalizing my choices. I found out two things during this assignment: 
 1) I was impressed with my ability to utilize design rules to identify areas of improvements.
 2) Finding examples of good design is exceedingly more difficult than finding examples of bad design, especially when viewed under the lens of scrutiny.
 
@@ -24,15 +24,14 @@ This was my first project, and the only project to be completed individually. I 
 
 ### Design for Others
 <img src = "/technocopia.png">
-In this project, the goal was to redesign a website for mobile use. Our team of 4 used Adobe XD to redesign the arrangement and look of the website technocopia.org. Using basic design principles, we simplified the entire website and made it easier to navigate. Through various rounds of user testing, we were able to identify weaknesses in our design and improve upon on them.
+In this project, the goal was to redesign a website for mobile use. Our team of four started off by making multiple sketches of possible website configurations fpr technocopia.org. Then we used Adobe XD to implement the chosen paper sketches. Using basic design principles, we simplified the entire website and made it easier to navigate. Through various rounds of user testing, we were able to identify weaknesses in our design and improve upon on them.
 
 [Read more about Design for Others](https://medium.com/@jiangpercy/group-19-design-reflection-28ed3236d0a6)
 
 
 ### Design for Understanding
 <img src = "/bach.jpg" width = "500" />
-Here, the aim was to present a data set in a clear but simple manner. Our team picked the dataset related to the famous TV show The Bacholorette. We presented the data with two different angles- one unbiased, and another with the intent to convey a narrative. We started off with paper sketches and ended with proper graphical represntations in Vega-Lite.
-
+Here, the aim was to present a data set in a clear but simple manner. Our team picked the dataset about the famous TV show _The Bacholorette_. We presented the data from two different angles- one unbiased and neutral, and another with the intent to convey a narrative. We started off with paper sketches and ended with proper graphical represntations made in Vega-Lite.
 
 [Read more about Design for Understanding](https://medium.com/@bhattacharjee.shreeja_7950/design-for-understanding-81de5fd6c5a8)
 

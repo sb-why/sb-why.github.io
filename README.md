@@ -9,6 +9,8 @@ My name is Shreeja Bhattacharjee. I am a senior studying Industrial Engineering 
 To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharjee.shreeja_7950/design-manifesto-cd1d3741dc89)
 
 ### Good Design, Bad Design
+<img src = "/gooddesign.png">
+<img src = "/baddesign.png">
 This was my first project, and the only project to be completed individually. I was tasked with the job of finding an example of good design and bad design from WPIs various webpages, as well as defending my choice. I found out two things during this assignment: 1) I was impressed with my ability to utilize design rules to identify areas of improvements 2) Finding examples of good design seems exceedingly more difficult, when viewed under the lens of scrutiny.
 
 [Read more about Good Design](https://medium.com/@bhattacharjee.shreeja_7950/good-design-ce34e416f48e)

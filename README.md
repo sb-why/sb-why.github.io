@@ -13,8 +13,8 @@ To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharj
 
 ## Good Design, Bad Design
 <p float="center">
-  <img src = "/gooddesign.png" width = "230" />
-  <img src = "/baddesign.png" width = "230" />
+  <img src = "/gooddesign.png" width = "235" />
+  <img src = "/baddesign.png" width = "235" />
 </p>
 
 This was my first project, and the only project to be completed individually. I was tasked with the job of finding an example of good design and bad design from WPIs various webpages, as well as defending my choice. I found out two things during this assignment: 

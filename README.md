@@ -33,7 +33,7 @@ In this project, the goal was to redesign a website for mobile use. Our team of 
 
 
 ### Design for Understanding
-<img src = "/bachelor.png">
+<img src = "/bachelor.jpg">
 Here, the aim was to present a data set in a clear but simple manner. Our team picked the dataset related to the famous TV show The Bacholorette. We presented the data with two different angles- one unbiased, and another with the intent to convey a narrative. We started off with paper sketches and ended with proper graphical represntations in Vega-Lite.
 
 

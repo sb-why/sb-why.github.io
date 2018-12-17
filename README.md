@@ -10,8 +10,8 @@ To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharj
 
 ### Good Design, Bad Design
 <p float="center">
-  <img src = "/gooddesign.png" width = "224" />
-  <img src = "/baddesign.png" width = "224" />
+  <img src = "/gooddesign.png" width = "225" />
+  <img src = "/baddesign.png" width = "225" />
 </p>
 
 This was my first project, and the only project to be completed individually. I was tasked with the job of finding an example of good design and bad design from WPIs various webpages, as well as defending my choice. I found out two things during this assignment: 1) I was impressed with my ability to utilize design rules to identify areas of improvements 2) Finding examples of good design seems exceedingly more difficult, when viewed under the lens of scrutiny.

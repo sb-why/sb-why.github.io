@@ -42,7 +42,7 @@ Design for Well-Being presented an unique challenge of trying to use technology 
 [Read more about Design for Well-Being](https://medium.com/@bhattacharjee.shreeja_7950/design-for-well-being-4064d31ba535)
 
 ### Design for Another World
-<img src = "/horror.png">
+<img src = "/horror.PNG">
 Our final project, this one involved virtual reality. We were to design an "alteranate world" with a goal in mind. The team decided to "Design for Horror," and our virtual reality took place in a haunted museum. Ths was one of my favorite projects as it was a lot of fun.
 
 [Read more about Design for Horror](https://medium.com/@kendog95/design-for-another-world-af091294189d)

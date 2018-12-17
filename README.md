@@ -12,8 +12,8 @@ To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharj
 
 ## Good Design, Bad Design
 <p float="center">
-  <img src = "/gooddesign.png" width = "229" />
-  <img src = "/baddesign.png" width = "229" />
+  <img src = "/gooddesign.png" width = "230" />
+  <img src = "/baddesign.png" width = "230" />
 </p>
 
 This was my first project, and the only project to be completed individually. I was tasked with the job of finding an example of good design and bad design from WPIs various webpages, as well as defending my choice. I found out two things during this assignment: 
@@ -33,7 +33,7 @@ In this project, the goal was to redesign a website for mobile use. Our team of 
 
 
 ### Design for Understanding
-<img src = "/bachelor.jpg">
+<img src = "/bachelor.jpg" width = "500" />
 Here, the aim was to present a data set in a clear but simple manner. Our team picked the dataset related to the famous TV show The Bacholorette. We presented the data with two different angles- one unbiased, and another with the intent to convey a narrative. We started off with paper sketches and ended with proper graphical represntations in Vega-Lite.
 
 

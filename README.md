@@ -43,6 +43,7 @@ Here, the aim was to present data in a clear but simple manner. Our team picked 
 [Design for Understanding](https://medium.com/@bhattacharjee.shreeja_7950/design-for-understanding-81de5fd6c5a8)
 
 ### Design for Tension
+flowphoto.png
 This project resulted in the creation of a ChatBot. Our ChatBot aimed to inform, and hopefully persuade, on the controversial topic of Vaccines.
 
 [Design for Tension](https://medium.com/@bhattacharjee.shreeja_7950/design-for-tension-b77fec66feca)

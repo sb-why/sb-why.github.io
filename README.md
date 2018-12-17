@@ -10,7 +10,7 @@ My name is Shreeja Bhattacharjee. I am a senior studying Industrial Engineering 
 To read about my Design Manifesto, [click here.](https://medium.com/@bhattacharjee.shreeja_7950/design-manifesto-cd1d3741dc89)
 
 
-### Good Design, Bad Design
+## Good Design, Bad Design
 <p float="center">
   <img src = "/gooddesign.png" width = "229" />
   <img src = "/baddesign.png" width = "229" />
